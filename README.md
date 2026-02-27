@@ -44,23 +44,29 @@ The platform currently sustains a healthy **6.83% Conversion Rate** with a stron
 
 * **Search Dominance:** **gsearch** is the primary traffic driver with 295K new sessions, significantly outperforming **bsearch** and **socialbook**.
 * **Traffic Trends:** Long term analysis shows a massive volume surge peaking in late 2014, with monthly traffic consistently exceeding 50K sessions.
+  
+![category 1](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Image/Category%201.png)
 
 ### **Category 2: Conversion Performance & Benchmarking**
 
 * **Conversion Floor:** The overall 6.83% CVR is a strong benchmark, but the data reveals a "Retention Premium", where users on their 2nd visit convert at **7.8%**.
 * **Funnel Leakage:** The Pageview Distribution shows a steep drop from the **Landing Page (335.3K)** to **Order Confirmation (9.6%)**, identifying the Shipping and Billing pages as primary friction points.
-
-**[PLACE YOUR DASHBOARD PREVIEW IMAGE HERE]**
+  
+![category 2](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Image/Category%202.png)
 
 ### **Category 3: User Behavior & Engagement**
 
 * **Deep Engagement:** The **10.82-minute Average Session Time** suggests that users who don't bounce are highly engaged with product content.
 * **Peak Activity:** The Hourly Traffic Distribution identifies **10:00 AM to 5:00 PM** as the peak window for user activity, particularly on weekdays.
+  
+![category 3](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Image/Category%203.png)
 
 ### **Category 4: Retention & Repeat Behavior**
 
 * **Single Visit Dependency:** 72.55% of users are one-time visitors, highlighting a high cost of customer acquisition.
 * **Repeat Value:** Although they represent a smaller segment, users with 2 or more visits show improved CVR, proving that remarketing efforts are high-ROI.
+  
+![category 4](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Image/Category%204.png)
 
 ---
 
