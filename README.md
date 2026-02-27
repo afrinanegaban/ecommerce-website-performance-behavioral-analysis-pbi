@@ -13,7 +13,7 @@ This project analyzes a comprehensive e-commerce dataset to evaluate scaling eff
 * **User Retention:** Analyzing the 72.55% single-visit majority vs. the higher CVR of repeat customers.
 * **Behavioral Distribution:** Mapping the hourly traffic heat and pageview funnel from landing to confirmation.
 
-> **[INSERT LINK TO YOUR INTERACTIVE POWER BI DASHBOARD HERE]**
+![Dashboard Preview](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Image/Snapshot%20of%20Dashboard.png)
 
 ---
 
@@ -26,7 +26,7 @@ The project utilizes a relational schema optimized for high volume performance m
 * **Orders & Conversions:** Captures transaction success rates, including specific CVR benchmarks for repeat visitors.
 * **Measures Table:** Centralized repository for KPIs including Bounce Rate (44.76%) and Avg Session Time.
 
-**[PLACE YOUR ERD IMAGE HERE]**
+![ERD](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Image/ERD.png)
 
 ---
 
