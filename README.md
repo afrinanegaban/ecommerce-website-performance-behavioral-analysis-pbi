@@ -80,4 +80,4 @@ Based on the dashboard insights, I recommend the following:
 4. **Checkout Friction Audit:** Conduct a UX audit of the **Shipping and Billing pages**, as these represent the final barriers before the 9.6% conversion completion.
 ---
 
-[🔗View Interactive Dashboard](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Web%20Analytics.pbit)
+[🔗Dashboard](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Web%20Analytics.pbit)
