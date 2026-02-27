@@ -78,4 +78,6 @@ Based on the dashboard insights, I recommend the following:
 2. **Incentivize Repeat Visits:** Since CVR jumps to **7.8%** on the second visit, implement email triggers or "Save for Later" features to capture the 72.55% of users currently only visiting once.
 3. **Targeted Ad Scheduling:** Align marketing spend with the **10:00-17:00** peak traffic window to maximize visibility during high-intent hours.
 4. **Checkout Friction Audit:** Conduct a UX audit of the **Shipping and Billing pages**, as these represent the final barriers before the 9.6% conversion completion.
+---
 
+[🔗View Interactive Dashboard](https://github.com/afrinanegaban/ecommerce-website-performance-behavioral-analysis-pbi/blob/main/Web%20Analytics.pbit)
